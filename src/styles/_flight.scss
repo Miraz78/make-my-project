@@ -1,0 +1,26 @@
+.common-container {
+    padding: 24px 32px;
+    box-shadow: 0 1px 7px 0 rgba(0, 0, 0, .4);
+    .flight-info{
+        .choose-way-container {
+            padding: 24px 0px;
+            margin-left: 6rem;
+    
+            span {
+                padding-right: 10px;
+            }
+        }
+    
+        .flight-input-section {
+            display: flex;
+            justify-content: space-around;
+        }
+    
+    }
+    .search-ticket-container {
+        display: flex;
+        justify-content: center;
+        padding: 24px 32px;
+
+    }
+}
